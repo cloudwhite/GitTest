@@ -1,10 +1,10 @@
 GitTest
 =======
 
-¦±®aº~ i-c0112:
+æ›²å®¶æ¼¢ i-c0112:
 -------
 
-node.js ½m²ß1 °}¦C±Æ§Ç:
+node.js ç·´ç¿’1 é™£åˆ—æ’åº:
 	function example()
 	{
 		// merge 2 "sorted" sub array
