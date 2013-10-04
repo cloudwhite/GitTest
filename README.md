@@ -5,6 +5,7 @@ GitTest
 -------
 
 node.js 練習1 陣列排序:
+
 	function example()
 	{
 		// merge 2 "sorted" sub array
