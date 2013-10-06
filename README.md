@@ -75,6 +75,7 @@ node.js 練習1 陣列排序:
 	
 白雲 cloudwhite :
 -------
+
 	var A=new Array(69,15,54,26,59,87,35,61,18,46);
 	for(var i=0;i<10;i++)
 	{
@@ -99,3 +100,7 @@ node.js 練習1 陣列排序:
 	{
 		console.log(A[i]);
 	}
+
+Peishan Yen:
+---------
+XDDDDDDDs
