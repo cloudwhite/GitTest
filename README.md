@@ -104,3 +104,4 @@ node.js 練習1 陣列排序:
 Peishan Yen:
 ---------
 XDDDDDDDs
+Beat it !
