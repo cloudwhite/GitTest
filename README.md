@@ -77,5 +77,22 @@ node.js 練習1 陣列排序:
 -------
 
 Peishan Yen:
----------
 XDDDDDDDs
+---------
+
+var a=[7,4,1,8,5,2,9,6,3,0], i, j, max;
+for ( i=0; i<10; i++ ) console.log(a[i]);
+console.log("-----")
+for ( i=0; i<10; i++ )
+	{
+		max=i;
+		for ( j=i+1; j<10; j++ )
+			{
+				if ( a[max]<a[j] ) max=j;
+			}
+		var t;
+		t=a[i];
+		a[i]=a[max];
+		a[max]=t;
+	}
+for ( i=0; i<10; i++ ) console.log(a[i]);
