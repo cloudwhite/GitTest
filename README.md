@@ -103,7 +103,7 @@ node.js 練習1 陣列排序:
 
 Peishan Yen:
 ---------
-//XDDDDDDDs
+	//XDDDDDDDs
 
 	var a=[7,4,1,8,5,2,9,6,3,0], i, j, max;
 	for ( i=0; i<10; i++ ) console.log(a[i]);
