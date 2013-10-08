@@ -73,8 +73,33 @@ node.js 練習1 陣列排序:
 	}
 	example();
 	
-白雲:
+白雲 cloudwhite :
 -------
+
+	var A=new Array(69,15,54,26,59,87,35,61,18,46);
+	for(var i=0;i<10;i++)
+	{
+		console.log(A[i]);
+	}
+	console.log("---------");
+	for(var i=0;i<10;i++)
+	{
+		for(var j=i+1;j<10;j++)
+		{
+			if(A[i]>A[j])
+			{
+				var t=A[i];
+				A[i]=A[j];
+				A[j]=t;
+				i--;
+				break;
+			}
+		}
+	}
+	for(var i=0;i<10;i++)
+	{
+		console.log(A[i]);
+	}
 
 Peishan Yen:
 ---------
@@ -96,3 +121,4 @@ Peishan Yen:
 			a[max]=t;
 		}
 	for ( i=0; i<10; i++ ) console.log(a[i]);
+
