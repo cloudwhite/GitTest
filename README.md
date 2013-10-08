@@ -123,3 +123,4 @@ Peishan Yen:
 		}
 	for ( i=0; i<10; i++ ) console.log(a[i]);
 
+	//Test Test Test Peishan Yen very soy sauce.
